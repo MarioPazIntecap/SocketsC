@@ -93,5 +93,7 @@ int main(){
     close(sock);
     printf("Conexion cerrada, servidor finalizado...\n");
 
+    //Comentario adicional para fines ilustrativos de GitHub
+
     return 0;
 }
